@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Stenhouse
+tagline:          'and the alternative facts'
+description:      'My corner of the internet. Please hire me.'
+url:              https://stenhousems.github.io
+baseurl:          /
+
+author:
+  name:           'Michael Stenhouse'
+  url:            https://twitter.com/stenhousems
+
+gems: [jekyll-paginate]
+paginate:         5
+paginate_path: "page:num"
+
+# Custom vars
+version:          0.1
+twitter:          https://twitter.com/stenhousems
+github:           https://github.com/stenhousems
