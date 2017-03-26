@@ -24,6 +24,6 @@ Now that my machine is well-equiped with any Ruby dependencies I may need, I wil
 I would like to work on something substantial that I could show off to employers. Chances are I'll probably continue working
 on the Destiny Python shell I wrote for my final project as an undergraduate.
 
-I'd like to write a post every week as a sort of "reaction" to my programming. But I'm going to be realistic:
+I'd like to write a post every **month** as a sort of "reaction" to my programming. But I'm going to be realistic:
 the [Nintendo Switch](https://youtu.be/f5uik5fgIaI) and the new Zelda are out next week and nothing else will matter
 for a few days.
