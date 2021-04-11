@@ -3,8 +3,8 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! It's 1AM and I'm going to sleep! I'll update this later.
-</p>
+I'm Michael Stenhouse - family man, etc.
 
-Thanks for reading!
+I have abandoned my GitHub account for four years to focus on my day job and life. However, in my spare time, I hope to create personal projects and document interesting tidbits on this blog.
+
+Thanks for visiting!

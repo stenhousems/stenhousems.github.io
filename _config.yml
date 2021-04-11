@@ -7,8 +7,8 @@ permalink:        pretty
 
 # Setup
 title:            Stenhouse
-tagline:          'not Steinhaus'
-description:      'My corner of the internet.'
+tagline:          'Work in progress'
+description:      'Work in progress'
 url:              https://stenhousems.github.io
 baseurl:          /
 
@@ -21,6 +21,6 @@ paginate:         5
 paginate_path:    "page:num"
 
 # Custom vars
-version:          0.1
+version:          2021.04
 twitter:          https://twitter.com/stenhousems
 github:           https://github.com/stenhousems
