@@ -26,8 +26,22 @@
         {% endif %}
       {% endfor %}
 
-      <a class="sidebar-nav-item" href="{{ site.github }}">GitHub</a>
-      <a class="sidebar-nav-item" href="{{ site.twitter }}">Twitter</a>
+      <br>
+
+      <!-- GitHub .SVG and link -->
+      <a href="{{ site.github }}">
+        <svg width="36" height="36" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+          <image href="/public/images/github.svg"/>
+        </svg>
+      </a>
+      
+      <!-- Twitter .SVG and link-->
+      <a href="{{ site.twitter }}">
+        <svg width="36" height="36" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+          <image href="/public/images/twitter.svg"/>
+        </svg>
+      </a>
+
       <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
     </nav>
 
